@@ -1,11 +1,16 @@
 .vagrant
 Berksfile.lock
+berks-cookbooks/
 *~
 *#
 .#*
 \#*#
 .*.sw[a-z]
 *.un~
+
+
+local-mode-cache/
+nodes/
 
 # Bundler
 Gemfile.lock
