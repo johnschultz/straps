@@ -1,2 +1,3 @@
+cookbook 'apt' 
 cookbook 'poise-python', '~> 1.4.0'
 cookbook 'git', '~> 4.6.0'
